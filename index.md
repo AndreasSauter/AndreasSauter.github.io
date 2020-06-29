@@ -7,5 +7,7 @@ Interessierter Git User der begeistert den Kurs beim HPI absolviert. Dritte Woch
 * Item 4
 * Item 5
 * Item 6
-
+Wie schon Gustav Müller sagte:
+> Morgen wird das Wetter anders
+> oder es bleibt wie es ist.
 
